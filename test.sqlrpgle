@@ -1,0 +1,2 @@
+*inlr = *on
+dsply devops 
